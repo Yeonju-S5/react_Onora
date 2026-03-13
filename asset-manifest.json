@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_Onora/static/css/main.0b527d54.css",
+    "main.js": "/react_Onora/static/js/main.dbae322a.js",
+    "static/js/453.96aa6b57.chunk.js": "/react_Onora/static/js/453.96aa6b57.chunk.js",
+    "index.html": "/react_Onora/index.html",
+    "main.0b527d54.css.map": "/react_Onora/static/css/main.0b527d54.css.map",
+    "main.dbae322a.js.map": "/react_Onora/static/js/main.dbae322a.js.map",
+    "453.96aa6b57.chunk.js.map": "/react_Onora/static/js/453.96aa6b57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b527d54.css",
+    "static/js/main.dbae322a.js"
+  ]
+}
